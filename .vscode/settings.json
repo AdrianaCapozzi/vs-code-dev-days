@@ -1,0 +1,7 @@
+{
+    "chat.mcp.serverSampling": {
+        "vs-code-dev-days/.vscode/mcp.json: github": {
+            "allowedModels": []
+        }
+    }
+}
